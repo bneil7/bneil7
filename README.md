@@ -4,7 +4,7 @@
 - 🔭 I’m currently working on ... front-end for [Human Rights First](https://www.humanrightsfirst.org/)
 - 🌱 I’m currently learning ... full stack web development
 - 👯 I’m looking to collaborate on ... something cool!
-- 🤔 I’m looking for help with ... ¯ \ _ (ツ) _ /¯ 
+- 🤔 I’m looking for help with ... ¯ \ _ ( ツ ) _ / ¯ 
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [email](mailto:bgn4@nau.edu) or [LinkedIn](https://www.linkedin.com/in/brandon-g-neil/)
 - 😄 Pronouns: ... he/him
@@ -40,5 +40,5 @@
 
 <br>
 <br>
-<br>
-<span align="center">🛸 &nbsp; the truth is out there✌️</span>
+
+<p align="center">🛸 <br> the truth is out there <br> ✌️</p>
