@@ -2,7 +2,7 @@
 
 
 - 🔭 I’m currently working on ... front-end for [Human Rights First](https://www.humanrightsfirst.org/)
-- 🌱 I’m currently learning ... full stack web development
+- 🌱 I’m currently learning ... full stack web development (focusing on ReactJS specifically) 
 - 👯 I’m looking to collaborate on ... something cool!
 - 💬 Ask me about ... anything
 - 📫 How to reach me: ... [email](mailto:bgn4@nau.edu) or [LinkedIn](https://www.linkedin.com/in/brandon-g-neil/)
