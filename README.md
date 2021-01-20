@@ -1,9 +1,10 @@
 <h1 align="center"> Hi there, I'm Brandon <br> 🤙</h1>
 
 
-- 🔭 I’m currently working on ... front-end for [Human Rights First](https://www.humanrightsfirst.org/)
+- 🔭 I’m currently working on ... building a portfolio website
 - 🌱 I’m currently learning ... full stack web development (focusing on ReactJS, specifically) 
 - 👯 I’m looking to collaborate on ... something cool!
+- 🕓 Most recently worked on ... front-end for [Human Rights First](https://www.humanrightsfirst.org/)
 - 💬 Ask me about ... anything (really, anything)
 - 📫 How to reach me: ... [email](mailto:bgn4@nau.edu) or [LinkedIn](https://www.linkedin.com/in/brandon-g-neil/)
 - 😄 Pronouns: ... he/him
