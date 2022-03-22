@@ -1,8 +1,8 @@
 <h1 align="center"> Hi there, I'm Brandon <br> 🤙</h1>
 
 
-- 🔭 I’m currently working on ... building a portfolio website
-- 🌱 I’m currently learning ... full stack web development (focusing on ReactJS, specifically) 
+- 🔭 I’m currently working on ... Training @ Wherewolf
+- 🌱 I’m currently learning ... Javascript, NodeJS, React, Angular/jQuery Mobile
 - 👯 I’m looking to collaborate on ... something cool!
 - 🕓 Most recently worked on ... front-end for [Human Rights First](https://www.humanrightsfirst.org/)
 - 💬 Ask me about ... anything (really, anything)
@@ -15,8 +15,8 @@
 
 - 🤔 &nbsp; Diving feet first into the tech pool after years of experience in the hospitality industry. 
 - 🎓 &nbsp; Bachelor's Degree in Strategic Communication from Northern Arizona University
-- 🌱 &nbsp; Currently learning Full Stack Web Developement at [Lambda School](https://lambdaschool.com/)
-- Excited to make this transition in my career! Open for project collaboration and internship opportunities. 
+- 🌱 &nbsp; Certified Full Stack Web Developer from [Lambda School](https://lambdaschool.com/)
+- Excited to make this transition in my career! 
 
 <br>
 <h2 align="center">🛠 <br> Tech Stack</h2>
