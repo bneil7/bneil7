@@ -1,9 +1,8 @@
 <h1 align="center"> Hi there, I'm Brandon <br> 🤙</h1>
 
 
-- 🔭 I’m currently working on ... Training @ Wherewolf
-- 🌱 I’m currently learning ... Javascript, NodeJS, React, Angular/jQuery Mobile
-- 👯 I’m looking to collaborate on ... something cool!
+- 🔭 I’m currently working on ... Client-Dev @ Wherewolf
+- 🌱 I’m currently learning ... Javascript, NodeJS, React, SQL
 - 🕓 Most recently worked on ... front-end for [Human Rights First](https://www.humanrightsfirst.org/)
 - 💬 Ask me about ... anything (really, anything)
 - 📫 How to reach me: ... [email](mailto:bgn4@nau.edu) or [LinkedIn](https://www.linkedin.com/in/brandon-g-neil/)
@@ -11,7 +10,7 @@
 - ⚡ Fun fact: ... I have scuba dived in every major ocean on the planet 🤿 
 
 <br>
-<h2 align="center"> 🤝🏻 <br> About Me </h2>
+<h2 align="center"> 🤝 <br> About Me </h2>
 
 - 🤔 &nbsp; Diving feet first into the tech pool after years of experience in the hospitality industry. 
 - 🎓 &nbsp; Bachelor's Degree in Strategic Communication from Northern Arizona University
